@@ -1,6 +1,5 @@
-# Portfolio Template
+# Portfolio
 
-This repository provides a template for creating a modern, responsive portfolio website built with **Vite** and **React**. It includes pre-configured tools and libraries to help you quickly set up and deploy your portfolio.
 You can check the demo at [Sarthak Raut](https://sarthak-raut.github.io)
 
 ## Features
