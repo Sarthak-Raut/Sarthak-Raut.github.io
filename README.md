@@ -1,6 +1,6 @@
 # Portfolio
 
-You can check the demo at [Sarthak Raut](https://sarthak-raut.github.io)
+You can check the potfolio at [Sarthak Raut](https://sarthak-raut.github.io)
 
 ## Features
 
